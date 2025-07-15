@@ -1,7 +1,7 @@
 # 📜 Learning Schedule
 
 Welcome to the **SE-StudyRoom Learning Schedule**!  
-This is a suggested 4-week plan to help you systematically study software engineering topics using the resources in this repo.
+This is a suggested multi-week plan to help you systematically study software engineering topics using the resources in this repo.
 
 ---
 
