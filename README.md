@@ -8,6 +8,15 @@ This repo is a **well-organized collection of PDFs, notes, and resources** to he
 ## ✨ What’s Inside
 
 Organized by topic so you can find what you need quickly:
+### 📚 Programming Languages
+- Java
+- C++
+- Golang
+
+### 📚 Data Structures
+- Array
+- String
+- Linked List
 
 ### 📚 Algorithms
 - Sorting
