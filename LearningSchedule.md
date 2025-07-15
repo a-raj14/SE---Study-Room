@@ -5,9 +5,10 @@ This is a suggested 4-week plan to help you systematically study software engine
 
 ---
 
-## 📅 Week 1: Learn Programming Language
-- Java
-- C++
+## 📅 [Week 1: Learn Programming Language](./ProgrammingLanguages)
+
+- [Java](./ProgrammingLanguages/Java)
+- [C++](./ProgrammingLanguages/C++)
 
 ✅ Goal: Earn your “driving license” for the programming world.
 <!--
